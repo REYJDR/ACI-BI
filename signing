@@ -1,0 +1,3 @@
+mage -sign "C:\Users\Mary\Documents\ACI-BI\Application Files\Sage50Excel13Plugin_1_0_0_17\Sage50Excel13Plug
+in.dll.manifest"  -CertFile "C:\Program Files (x86)\Ampps\www\ACIWEB\SAGE_UNPAID_INVOICE\Sage50Excel13Plugin\Sage50Excel13Plugin\VS_KEY_5CD1C560B803D9F7.pfx" -Password v
+ito16032012
